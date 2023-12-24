@@ -46,3 +46,5 @@ app.*.map.json
 # Isar specific
 libisar.so
 coverage
+
+.fvm/
